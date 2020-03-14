@@ -1,4 +1,4 @@
-# GreedyAlgorithm_MaximizingtheLoot
+# Greedy Algorithm: Knapsack Problem (Maximize the Value of the Loot)
 https://www.coursera.org/learn/algorithmic-toolbox/
 
 Assignment description:
