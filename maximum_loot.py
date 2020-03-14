@@ -1,5 +1,4 @@
 # python3
-
 from sys import stdin
 
 
@@ -31,21 +30,25 @@ def maximum_loot_value(capacity, weights, prices):
     # and add as much item as possible, starting with the most valued ones
     value = 0
     for i in range(len(sorted_unit_prices)):
+        # if there's more than enough capacity to store the maximum amount of the most valued item remaining
+        # take the maximum amount of said item
         if capacity >= sorted_weights[i]:
             value += sorted_unit_prices[i]*sorted_weights[i]
             capacity -= sorted_weights[i]
+        # if there's not enough capacity to store the maximum amount of the most valued item remaining
+        # fill the knapsack with said item to its full capacity 
         else:
             value += sorted_unit_prices[i]*capacity
             capacity = 0
+        # check if there's still room in the knapsack
+        # if yes, move on to the next valued item remaining
         if capacity>0:
             continue
+        # otherwise, stop searching through remaining items and return the value of the knapsack
         else:
             break
 
     return value
-
-
-
 
 
 if __name__ == "__main__":
