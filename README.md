@@ -1,9 +1,7 @@
 # Greedy Algorithm: Knapsack Problem (Maximize the Value of the Loot)
 https://www.coursera.org/learn/algorithmic-toolbox/
 
-Assignment description:
-Maximum Value of the Loot
-
+__Assignment description:__
 
 Given the capacity of a backpack as well as the weights and per pound prices of n
 n
@@ -62,3 +60,6 @@ u
 ≤
 9
 .
+
+
+__Disclaimer__: If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)
