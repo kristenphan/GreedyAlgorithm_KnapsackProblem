@@ -1,7 +1,7 @@
 # Greedy Algorithm: Knapsack Problem
 https://www.coursera.org/learn/algorithmic-toolbox/
 
-__Assignment 1 description: Maximum value of the knapsack__
+__Assignment description: Maximum value of the knapsack__
 
 Given the capacity of a backpack as well as the weights and per pound prices of n different compounds, compute the maximum total price of items that fit into the backpack of the given capacity.
 
