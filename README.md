@@ -10,5 +10,7 @@ A thief breaks into a spice shop and finds four pounds of saffron, three pounds 
 
 __Assignment description: Car fueling__
 
+Compute the minimum number of tank refills to get from one city to another. Assuming that the distance between the cities is 1≤d≤10 miles, a car can travel at most 1≤m≤400 miles on a full tank, and there are 1≤n≤300 gas stations at distances stop1,stop2,…,stop along the way, output the minimum number of refills needed. Assume that the car starts with a full tank. If it is not possible to reach the destination, output −1. The distances to gas stations satisfy the inequalities 0<stop1<stop2<⋯<stopn<d.
+
 
 __Disclaimer__: If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)
