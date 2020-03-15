@@ -8,9 +8,4 @@ Given the capacity of a backpack as well as the weights and per pound prices of 
 A thief breaks into a spice shop and finds four pounds of saffron, three pounds of vanilla, and five pounds of cinnamon. His backpack fits at most nine pounds, therefore he cannot take everything. Assuming that the prices of saffron, vanilla, and cinnamon are 5000, 200, and 10 per pound respectively, what is the most valuable loot in this case? If the thief takes u1 pounds of saffron, u2 pounds of vanilla, and u3 pounds of cinnamon, the total price of the loot is 5,000⋅u1+200⋅u2+10⋅u3. The thief would like to maximize the value of this expression subject to the following constraints: u1≤4, u2≤3, u3≤5, u1+u2+u3≤9
 
 
-__Assignment 2 description: Maximum amount of gold__
-
-Given a set of gold bars of various weights and a backpack that can hold at most W pounds, place as much gold as possible into the backpack. Constraints. 1≤W≤104. There are at most 103 gold bars, the weight of each gold bar is at most 105.
-
-
 __Disclaimer__: If you're currently taking the same course, please refrain yourself from checking out this solution as it will be against Coursera's Honor Code and won’t do you any good. Plus, once you're worked your heart out and was able to solve a particularly difficult problem, a sense of confidence you gained from such experience is priceless :)
