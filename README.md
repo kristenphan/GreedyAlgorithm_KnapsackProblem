@@ -1,5 +1,7 @@
 # Greedy Algorithms:
-https://www.coursera.org/learn/algorithmic-toolbox/
+__Repository description:__ <br/> This repository stores the work as part of the Algorithm and Data Structures Specialization courses by UC San Diego. Course URL: https://www.coursera.org/specializations/data-structures-algorithms?. Code included in this repository is written by myself, Kristen Phan.
+<br /> 
+<br /> 
 
 __Assignment 1 description: Maximum value of the knapsack__
 
